@@ -1,9 +1,8 @@
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
-
 ## 💫 About Me:
 
-🚀 Passionate about building impactful tech solutions.<br>💡 I enjoy solving real-world problems through code, with a focus on [full-stack development / AI / data science / UI/UX design].<br>🛠️ Currently working on projects involving [tools/technologies you're using, e.g., Python, React, OpenCV, etc.].<br>📚 Always learning, always improving — currently exploring [new skill or interest, e.g., machine learning models / cloud deployment / system design].<br>🤝 Open to collaborations, internships, and opportunities to grow in tech.
+🚀 Passionate about building impactful tech solutions.<br>💡 I enjoy solving real-world problems through code, with a focus on [full-stack development / AI / data science / UI/UX design].<br>
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />🛠️ Currently working on projects involving [tools/technologies you're using, e.g., Python, React, OpenCV, etc.].<br>📚 Always learning, always improving — currently exploring [new skill or interest, e.g., machine learning models / cloud deployment / system design].<br>🤝 Open to collaborations, internships, and opportunities to grow in tech.
 
 
 
