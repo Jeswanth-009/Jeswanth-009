@@ -1,10 +1,14 @@
 ## 💫 About Me:
 
 I’m a Software Engineer focused on building real-world products with a strong foundation in backend systems.
+
 I enjoy working across the stack, but I’m particularly interested in designing scalable systems, optimizing performance, and understanding how things work under the hood.
+
 Recently, I’ve been working on projects like:
- A high-performance in-memory key-value store with caching and persistence 
+ 
+ A high-performance in-memory key-value store with caching and persistence  
  End-to-end product systems involving backend APIs, integrations, and user-facing applications 
+
 Through hackathons and internships, I’ve learned how to move from idea → prototype → working product under real constraints. I value both speed of execution and depth of understanding.
 Currently, I’m focused on:
  Strengthening backend and system design fundamentals 
