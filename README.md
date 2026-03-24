@@ -1,7 +1,16 @@
 ## 💫 About Me:
 
-🚀 Passionate about building impactful tech solutions.<br>
-<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />💡 I enjoy solving real-world problems through code, with a focus on [full-stack development / AI / data science / UI/UX design].<br>🛠️ Currently working on projects involving [tools/technologies you're using, e.g., Python, React, OpenCV, etc.].<br>📚 Always learning, always improving — currently exploring [new skill or interest, e.g., machine learning models / cloud deployment / system design].<br>🤝 Open to collaborations, internships, and opportunities to grow in tech.
+I’m a Software Engineer focused on building real-world products with a strong foundation in backend systems.
+I enjoy working across the stack, but I’m particularly interested in designing scalable systems, optimizing performance, and understanding how things work under the hood.
+Recently, I’ve been working on projects like:
+ A high-performance in-memory key-value store with caching and persistence 
+ End-to-end product systems involving backend APIs, integrations, and user-facing applications 
+Through hackathons and internships, I’ve learned how to move from idea → prototype → working product under real constraints. I value both speed of execution and depth of understanding.
+Currently, I’m focused on:
+ Strengthening backend and system design fundamentals 
+ Building scalable and production-like projects 
+ Preparing for Software Engineering roles where I can contribute across the stack 
+I’m always open to opportunities where I can build, learn, and work on meaningful problems.
 
 
 
