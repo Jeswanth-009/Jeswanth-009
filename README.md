@@ -28,8 +28,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://jeswanth-009.github.io/Kairo/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20%2F%20Kairo-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  <a href="https://jeswanth-saik-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://reddit.com/user/Mediocre-Metal8575" target="_blank">
